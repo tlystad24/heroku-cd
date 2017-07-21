@@ -4,6 +4,7 @@
 	<title>Heroku PHP</title>
 </head>
 <body>
+	Static text
 <?php
 echo 'It\'s working!'
 ?>
