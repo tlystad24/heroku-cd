@@ -28,8 +28,8 @@
 			color: rebeccapurple;
 		}
 		.blockQuote {
-			border-left: 3px solid rebeccapurple;
-			padding-left: 3px; 
+			border-left: 2px solid rebeccapurple;
+			padding-left: 5px; 
 		}
 		p {
 			font-weight: 400;
